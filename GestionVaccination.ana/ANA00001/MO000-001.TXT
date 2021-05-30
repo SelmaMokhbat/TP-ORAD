@@ -1,0 +1,16 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Medecin		NFI		nouveau fichier
+Patient		NFI		nouveau fichier
+Clinique		NFI		nouveau fichier
+Vaccin		NFI		nouveau fichier
+Ministere		NFI		nouveau fichier
+directeur		NFI		nouveau fichier
+Traitement		NFI		nouveau fichier
+Patient_Traitement		NFI		nouveau fichier
+Contrainte_directeur_Clinique		NWL	directeur (IDdirecteur) et Clinique (IDdirecteur)	Nouvelle liaison entre les fichiers directeur (IDdirecteur) et Clinique (IDdirecteur)
+Contrainte_Clinique_Ministere		NWL	Ministere (IDMinistere) et Clinique (IDMinistere)	Nouvelle liaison entre les fichiers Ministere (IDMinistere) et Clinique (IDMinistere)
+Contrainte_Clinique_Medecin		NWL	Clinique (IDClinique) et Medecin (IDClinique)	Nouvelle liaison entre les fichiers Clinique (IDClinique) et Medecin (IDClinique)
+Contrainte_Clinique_Vaccin		NWL	Clinique (IDClinique) et Vaccin (IDClinique)	Nouvelle liaison entre les fichiers Clinique (IDClinique) et Vaccin (IDClinique)
+Prend		NWL	Patient (IDPatient) et Patient_Traitement (IDPatient)	Nouvelle liaison entre les fichiers Patient (IDPatient) et Patient_Traitement (IDPatient)
+Contrainte_Traitement_Patient		NWL	Traitement (IDTraitement) et Patient_Traitement (IDTraitement)	Nouvelle liaison entre les fichiers Traitement (IDTraitement) et Patient_Traitement (IDTraitement)
+Contrainte_Clinique_Patient		NWL	Clinique (IDClinique) et Patient (IDClinique)	Nouvelle liaison entre les fichiers Clinique (IDClinique) et Patient (IDClinique)

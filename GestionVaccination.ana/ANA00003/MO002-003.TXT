@@ -1,0 +1,16 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Medecin		TAR	217	nouvelle taille enregistrement : 217
+Medecin	IDMedecin	CNW	Entier sur 4 octets$Chaîne	la rubrique IDMedecin a pour nouveau type Entier sur 4 octets
+Medecin	IDClinique	RUB-		la clé IDClinique est supprimée
+Patient		TAR	179	nouvelle taille enregistrement : 179
+Patient	image	RUB+		image est une nouvelle rubrique
+Patient	IDMedecin	RUB-		la clé IDMedecin est supprimée
+Patient	IDClinique	RUB-		la clé IDClinique est supprimée
+Clinique		TAR	119	nouvelle taille enregistrement : 119
+Clinique	nombre_medecin	RUB+		nombre_medecin est une nouvelle rubrique
+Clinique	IDdirecteur	RUB-		la clé IDdirecteur est supprimée
+Clinique	IDMinistere	RUB-		la clé IDMinistere est supprimée
+Vaccin		TAR	24	nouvelle taille enregistrement : 24
+Vaccin	IDClinique	RUB-		la clé IDClinique est supprimée
+directeur		TAR	166	nouvelle taille enregistrement : 166
+directeur	IDClinique	RUB-		la rubrique IDClinique est supprimée

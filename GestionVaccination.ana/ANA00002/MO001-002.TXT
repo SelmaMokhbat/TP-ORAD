@@ -1,0 +1,9 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Patient_Traitement		FIC-	Patient_Traitement	Fichier supprimé Patient_Traitement
+Contrainte_directeur_Clinique		DEL	directeur (IDdirecteur) et Clinique (IDdirecteur)	Liaison supprimée entre les fichiers directeur (IDdirecteur) et Clinique (IDdirecteur)
+Contrainte_Clinique_Ministere		DEL	Ministere (IDMinistere) et Clinique (IDMinistere)	Liaison supprimée entre les fichiers Ministere (IDMinistere) et Clinique (IDMinistere)
+Contrainte_Clinique_Medecin		DEL	Clinique (IDClinique) et Medecin (IDClinique)	Liaison supprimée entre les fichiers Clinique (IDClinique) et Medecin (IDClinique)
+Contrainte_Clinique_Vaccin		DEL	Clinique (IDClinique) et Vaccin (IDClinique)	Liaison supprimée entre les fichiers Clinique (IDClinique) et Vaccin (IDClinique)
+Prend		DEL	Patient (IDPatient) et Patient_Traitement (IDPatient)	Liaison supprimée entre les fichiers Patient (IDPatient) et Patient_Traitement (IDPatient)
+Contrainte_Traitement_Patient		DEL	Traitement (IDTraitement) et Patient_Traitement (IDTraitement)	Liaison supprimée entre les fichiers Traitement (IDTraitement) et Patient_Traitement (IDTraitement)
+Contrainte_Clinique_Patient		DEL	Clinique (IDClinique) et Patient (IDClinique)	Liaison supprimée entre les fichiers Clinique (IDClinique) et Patient (IDClinique)

@@ -1,0 +1,5 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Medecin		TAR	166	nouvelle taille enregistrement : 166
+Medecin	motdepasse_medecin	RUB-		la rubrique motdepasse_medecin est supprimée
+Patient	situation	CNW	Booléen$Entier non signé sur 1 octet	la rubrique situation a pour nouveau type Booléen
+Ministere		FIC-	Ministere	Fichier supprimé Ministere
