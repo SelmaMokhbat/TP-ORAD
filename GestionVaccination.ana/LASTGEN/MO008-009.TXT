@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+utilisateur		TAR	273	nouvelle taille enregistrement : 273
+utilisateur	date_naissance	RUB+		date_naissance est une nouvelle rubrique

@@ -1,0 +1,21 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Patient	nomPatient	NNR	nom_patient	ATTENTION : la rubrique nom_patient a pour nouveau nom nomPatient
+Patient	prenomPatient	NNR	prenom_patient	ATTENTION : la rubrique prenom_patient a pour nouveau nom prenomPatient
+Patient	agePatient	NNR	age_patient	ATTENTION : la rubrique age_patient a pour nouveau nom agePatient
+Clinique		TAR	217	nouvelle taille enregistrement : 217
+Clinique	NomClinique	NNR	Nom_clinique	ATTENTION : la clé Nom_clinique a pour nouveau nom NomClinique
+Clinique	NomClinique	CLEU*		la rubrique NomClinique est maintenant une clé
+Clinique	wilayaClinique	NNR	wilaya_clinique	ATTENTION : la rubrique wilaya_clinique a pour nouveau nom wilayaClinique
+Clinique	nbMedecin	NNR	nombre_medecin	ATTENTION : la rubrique nombre_medecin a pour nouveau nom nbMedecin
+Clinique	nomDirecteur	NNR	nom_directeur	ATTENTION : la rubrique nom_directeur a pour nouveau nom nomDirecteur
+Clinique	prenomDirecteur	RUB+		prenomDirecteur est une nouvelle rubrique
+Clinique	IDClinique	RUB-		la rubrique IDClinique est supprimée
+Vaccin		TAR	61	nouvelle taille enregistrement : 61
+Vaccin	nomVaccin	NNR	nom_vaccin	ATTENTION : la clé nom_vaccin a pour nouveau nom nomVaccin
+Vaccin	nomVaccin	CLEU*		la rubrique nomVaccin est maintenant une clé
+Vaccin	stockVaccin	RUB+		stockVaccin est une nouvelle rubrique
+Vaccin	IDVaccin	RUB-		la rubrique IDVaccin est supprimée
+Vaccin	prix_vaccin	RUB-		la rubrique prix_vaccin est supprimée
+utilisateur		NFI		nouveau fichier
+Medecin		FIC-	Medecin	Fichier supprimé Medecin
+directeur		FIC-	directeur	Fichier supprimé directeur

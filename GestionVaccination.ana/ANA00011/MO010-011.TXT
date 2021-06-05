@@ -1,0 +1,8 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Vaccin		TAR	133	nouvelle taille enregistrement : 133
+Vaccin	nomVaccin	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique nomVaccin a pour nouveau type Chaîne
+Vaccin	stockVaccin	CNW	Entier sur 4 octets$Chaîne	la rubrique stockVaccin a pour nouveau type Entier sur 4 octets
+Vaccin	expiryDate	RUB+		expiryDate est une nouvelle rubrique
+Vaccin	ariiveDate	RUB+		ariiveDate est une nouvelle rubrique
+Vaccin	vaccinStatus	RUB+		vaccinStatus est une nouvelle rubrique
+gjb		FIC-	gjb	Fichier supprimé gjb

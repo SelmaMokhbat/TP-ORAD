@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+utilisateur		TAR	264	nouvelle taille enregistrement : 264
+utilisateur	mdp	RUB+		mdp est une nouvelle rubrique

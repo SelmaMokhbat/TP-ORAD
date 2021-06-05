@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Vaccin		TAR	133	nouvelle taille enregistrement : 133
+Vaccin	nomVaccin	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique nomVaccin a pour nouveau type Chaîne
