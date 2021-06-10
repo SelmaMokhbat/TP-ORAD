@@ -1,4 +1,4 @@
-//MO016-017.TXT ANA00016 TO ANA00017
-Patient		TAR	221	nouvelle taille enregistrement : 221
-Patient	situation	CNW	Chaîne$Booléen	la rubrique situation a pour nouveau type Chaîne
-Patient	image	RUB-		la rubrique image est supprimée
+//MO017-018.TXT ANA00017 TO ANA00018
+Patient		TAR	226	nouvelle taille enregistrement : 226
+Patient	DDN	NNR	agePatient	ATTENTION : la rubrique agePatient a pour nouveau nom DDN
+Patient	DDN	CNW	Date (aaaammjj)$Entier sur 4 octets	la rubrique DDN a pour nouveau type Date (aaaammjj)
