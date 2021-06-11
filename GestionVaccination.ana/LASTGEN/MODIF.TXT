@@ -1,4 +1,3 @@
-//MO017-018.TXT ANA00017 TO ANA00018
-Patient		TAR	226	nouvelle taille enregistrement : 226
-Patient	DDN	NNR	agePatient	ATTENTION : la rubrique agePatient a pour nouveau nom DDN
-Patient	DDN	CNW	Date (aaaammjj)$Entier sur 4 octets	la rubrique DDN a pour nouveau type Date (aaaammjj)
+//MO018-019.TXT ANA00018 TO ANA00019
+Patient		TAR	327	nouvelle taille enregistrement : 327
+Patient	MaladieChronique	RUB+		MaladieChronique est une nouvelle rubrique
