@@ -1,0 +1,2 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+clinique	nom	NNR	nomClinique	ATTENTION : la rubrique nomClinique a pour nouveau nom nom

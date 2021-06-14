@@ -1,3 +1,4 @@
-//MO018-019.TXT ANA00018 TO ANA00019
-Patient		TAR	327	nouvelle taille enregistrement : 327
-Patient	MaladieChronique	RUB+		MaladieChronique est une nouvelle rubrique
+//MO025-026.TXT ANA00025 TO ANA00026
+clinique		TAR	64	nouvelle taille enregistrement : 64
+clinique		IDE+*		fichier avec identifiant
+clinique	id_cli	RUB+		id_cli est une nouvelle clé

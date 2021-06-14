@@ -1,3 +1,1 @@
-//MO019-020.TXT ANA00019 TO ANA00020
-Patient		IDE+*		fichier avec identifiant
-Patient	IDPatient	CNW	Identifiant automatique (4 octets)$Entier sur 4 octets	la rubrique IDPatient a pour nouveau type Identifiant automatique (4 oct
+//MO026-027.TXT ANA00026 TO ANA00027

@@ -1,0 +1,4 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+clinique		TAR	64	nouvelle taille enregistrement : 64
+clinique		IDE+*		fichier avec identifiant
+clinique	id_cli	RUB+		id_cli est une nouvelle clé
