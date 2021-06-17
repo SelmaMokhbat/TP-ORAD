@@ -1,0 +1,7 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Patient		TAR	332	nouvelle taille enregistrement : 332
+Patient	IDVaccin	RUB+		IDVaccin est une nouvelle clé
+Vaccin		TAR	137	nouvelle taille enregistrement : 137
+Vaccin		IDE+*		fichier avec identifiant
+Vaccin	IDVaccin	RUB+		IDVaccin est une nouvelle clé
+Contrainte_Patient_Vaccin		NWL	Vaccin (IDVaccin) et Patient (IDVaccin)	Nouvelle liaison entre les fichiers Vaccin (IDVaccin) et Patient (IDVaccin)
