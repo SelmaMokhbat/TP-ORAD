@@ -1,0 +1,4 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Patient		TAR	291	nouvelle taille enregistrement : 291
+Patient	Sexe	RUB+		Sexe est une nouvelle rubrique
+Patient	situation	RUB-		la rubrique situation est supprimée
