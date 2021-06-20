@@ -1,2 +1,3 @@
-//MO031-032.TXT ANA00031 TO ANA00032
-Patient	Sexe	CNW	Entier non signé sur 1 octet$Booléen	la rubrique Sexe a pour nouveau type Entier non signé sur 1 octet
+//MO032-033.TXT ANA00032 TO ANA00033
+Patient		TAR	341	nouvelle taille enregistrement : 341
+Patient	Sexe	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Sexe a pour nouveau type Chaîne
